@@ -1,13 +1,14 @@
 ---
-name: Feature request
+name: Bug Report
 about: 버그 리포트 템플릿
-title: "[FEAT] "
+title: "[BUG] "
 labels: ''
 assignees: ''
 
 ---
 
 ## Background
+-
 -
 
 ## To do
